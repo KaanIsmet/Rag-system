@@ -1,0 +1,4 @@
+gradio>=6
+chromadb
+ollama
+pypdf

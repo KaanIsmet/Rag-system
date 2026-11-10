@@ -1,0 +1,41 @@
+LUMORA LABS EMPLOYEE HANDBOOK (Fictional example for RAG testing)
+
+1. WORKING HOURS AND LOCATION
+
+Lumora Labs is headquartered in Austin, Texas. Core working hours are 10:00 AM to 4:00 PM Central Time. Outside of those hours, employees may set their own schedule as long as they complete their agreed weekly hours.
+
+Employees follow a hybrid schedule. Tuesday, Wednesday, and Thursday are in-office days. Monday and Friday are remote by default. Fridays are also meeting-free: no internal meetings may be scheduled on Fridays so that people can focus on deep work.
+
+2. TIME OFF
+
+Full-time employees receive 24 days of paid time off (PTO) per year, in addition to 11 company holidays. Unused PTO can carry over, up to a maximum of 5 days into the next year. Anything above that is lost on January 31.
+
+Parental leave is 16 weeks at full pay for all new parents, whether through birth, adoption, or foster placement. Leave can be taken in one block or split into two blocks within the first 12 months.
+
+3. EXPENSES AND EQUIPMENT
+
+Meals during business travel are reimbursed up to $75 per day. Receipts must be submitted in the Expensify app within 30 days of the purchase. Alcohol is not reimbursable.
+
+Every employee receives a company laptop, which is replaced every 3 years. Employees may choose between a MacBook Pro or a Dell XPS. Peripherals such as a monitor, keyboard, and mouse are covered up to $600 as a one-time home office stipend.
+
+4. LEARNING AND DEVELOPMENT
+
+Each employee has a learning budget of $1,200 per calendar year. It can be spent on courses, books, conferences, and certifications. Conference travel is billed separately under the expense policy. Managers must approve any single purchase above $400.
+
+New hires have a 90-day probation period, during which they meet weekly with a mentor assigned by their team lead.
+
+5. ON-CALL AND SUPPORT
+
+Engineers on the platform team join a weekly on-call rotation. The on-call engineer carries the pager from Monday 9:00 AM to the following Monday 9:00 AM. Each week of on-call duty earns one day of compensatory time off, to be used within 60 days.
+
+Customer support is available from 8:00 AM to 6:00 PM Central Time, Monday through Friday. There is no weekend support, except for outages classified as Severity 1.
+
+6. SECURITY
+
+All employees must use the company password manager (Bitwarden) and enable two-factor authentication on every work account. Company laptops use full-disk encryption and must never be left unlocked.
+
+Any suspected security incident, including lost devices and phishing emails that were clicked, must be reported within 1 hour to security@lumora.example. Employees will not be penalized for reporting honest mistakes promptly.
+
+7. CODE OF CONDUCT
+
+Lumora Labs is committed to a respectful workplace. Harassment and discrimination of any kind are not tolerated. Concerns can be raised with a manager, with People Operations, or anonymously through the ethics hotline. Retaliation against anyone who reports a concern in good faith is strictly prohibited.
